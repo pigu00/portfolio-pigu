@@ -18,7 +18,7 @@ export default function About() {
                         deploy2="" />
                     <AboutCard
                         title="Angular"
-                        icon="/icons/angular_icon.png"
+                        icon="/icons/angular-icono.png"
                         description="Frontend app mensajeria"
                         link='https://github.com/pigu00/correos-internos-front'
                         deploy=""
@@ -27,7 +27,7 @@ export default function About() {
                         deploy2="https://pokemon-fetch-angular.netlify.app/" />
                     <AboutCard
                         title="React"
-                        icon="/icons/react_icon.png"
+                        icon="/icons/react.png"
                         description="App fecth Rick & Morty"
                         link='https://github.com/pigu00/rick-morty-api-react'
                         deploy="https://rick-morty-api-r.netlify.app/"
