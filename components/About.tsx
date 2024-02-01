@@ -53,7 +53,10 @@ export default function About() {
                     <span className="white">Tandil, Buenos Aires Argentina</span>
                     <br />
                     <br />
-                    <span><Footer /> </span>
+                    <div className="footer" >
+
+                    <Footer  />
+                    </div>
                     
                     
                 </div>
