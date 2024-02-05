@@ -89,12 +89,12 @@ function AboutCard({ title, icon, description, link, description2, link2, deploy
             <p className="white">{description}</p>
             {link && (
                 <>
-                    <a href={link} target="_blank" rel="noopener noreferrer" className="gray">Github</a>{' '}
+                    <a href={link} target="_blank" rel="noopener noreferrer" className="gray">&lt;Code/&gt;💻</a>
                 </>
             )}
             {deploy && (
                 <>
-                    <a href={deploy} target="_blank" rel="noopener noreferrer" className="gray">Deploy</a>
+                    <a href={deploy} target="_blank" rel="noopener noreferrer" className="gray"> Live🌎</a>
                 </>
             )}
             <br></br>
@@ -104,12 +104,12 @@ function AboutCard({ title, icon, description, link, description2, link2, deploy
             <p className="white">{description2}</p>
             {link2 && (
                 <>
-                    <a href={link2} target="_blank" rel="noopener noreferrer" className="gray">Github</a>{' '}
+                    <a href={link2} target="_blank" rel="noopener noreferrer" className="gray">&lt;Code/&gt;💻</a>{' '}
                 </>
             )}
             {deploy2 && (
                 <>
-                    <a href={deploy2} target="_blank" rel="noopener noreferrer" className="gray">Deploy</a>
+                    <a href={deploy2} target="_blank" rel="noopener noreferrer" className="gray">Live🌎</a>
                 </>
             )}
         </div>
