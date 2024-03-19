@@ -53,7 +53,15 @@ export default function About() {
                     <span className="white">Tandil, Buenos Aires Argentina</span>
                     <br />
                     <br />
-                    <a className="white" href="../assets/cv2024.pdf" download>Descargar CV</a>
+                        <div>
+
+                         <a className="white" href="../assets/cv2024.pdf" download>Descargar CV</a>
+                         
+                            <br />
+                            <a className="white" href="../assets/Marban-FS01.pdf" download>Descargar Diplomatura</a>
+                            <br />
+                            <br />
+                        </div>
 
                     <div className="footer" >
 
