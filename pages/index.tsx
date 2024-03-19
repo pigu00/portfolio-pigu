@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         <meta name="theme-color" content="#2D2E32" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta property="og:site_name" content="Blaiti - Frontend Developer" />
+        <meta property="og:site_name" content="Roberto Marban - Fullstack Developer" />
         <meta property="og:locale" content="es_ES" />
         <title data-rh="true">Roberto Marbán Fullstack Developer</title>
         <meta data-rh="true" property="og:type" content="website"/>

@@ -1,6 +1,9 @@
 import React from "react";
 import Image, { StaticImageData } from "next/image";
 import Footer from "./Footer";
+
+
+
 export default function About() {
     return (
         <section id="about" className="dark-bg">
@@ -55,10 +58,10 @@ export default function About() {
                     <br />
                         <div>
 
-                         <a className="white" href="../assets/cv2024.pdf" download>Descargar CV</a>
+                         <a className="white" href="../assets/cv2024.pdf" >Descargar CV</a>
                          
                             <br />
-                            <a className="white" href="../assets/Marban-FS01.pdf" download>Descargar Diplomatura</a>
+                            <a className="white" href="../assets/Marban-FS01.pdf" >Descargar Diplomatura</a>
                             <br />
                             <br />
                         </div>
