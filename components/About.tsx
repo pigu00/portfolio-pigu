@@ -37,7 +37,15 @@ export default function About() {
                         description2="App carrito con Fake API"
                         link2='https://github.com/pigu00/app-carrito-react'
                         deploy2="https://app-carrito-fake-api.netlify.app/" />
-
+                    <AboutCard
+                        title="Next"
+                        icon="/icons/next.png"
+                        description="Web PDM Argentina"
+                        link='https://github.com/pigu00/pdm-agencia'
+                        deploy="https://golden-gnome-bfb963.netlify.app/"
+                        description2=""
+                        link2=''
+                        deploy2="" />
                     <AboutCard
                         title="WordPress"
                         icon="/icons/wordpress_icon.png"
@@ -50,7 +58,7 @@ export default function About() {
                 </div>
 
                 <div className="flex-full about-text">
-                    <h3 className="white">Desarrollador web Fullstack, Node.js, Express.js, MySql, React y Angular. Experiencia en desarrollo de sitios con WordPress (Elementor).</h3>
+                    <h3 className="white">Desarrollador web Fullstack, Node.js, Express.js, MySql, React, Next y Angular. Experiencia en desarrollo de sitios con WordPress (Elementor).</h3>
                     <p className="gray"> Experiencia en Marketing Digital en META y Google Adsense en campañas electorales</p>
                     <br />
                     <span className="white">Tandil, Buenos Aires Argentina</span>

@@ -12,7 +12,7 @@ export default function Header() {
                     <button>Roberto Marbán - Fullstack Developer</button>
                     <h1 className="white">Desarrollador Web</h1>
                     <hr></hr>
-                    <h3 className="gray">NodeJS | Angular | ReactJS | WordPress</h3>
+                    <h3 className="gray">NodeJs | Angular | React.Js | Next.Js | WordPress</h3>
                     <br></br>
                     <a className="green" href="mailto:robertomarban@gmail.com">Contactame</a>
                 </div>
