@@ -58,7 +58,7 @@ export default function About() {
                 </div>
 
                 <div className="flex-full about-text">
-                    <h3 className="white">Desarrollador web Fullstack, Node.js, Express.js, MySql, React, Next y Angular. Experiencia en desarrollo de sitios con WordPress (Elementor).</h3>
+                    <h3 className="white">Desarrollador web Fullstack, Node.js, Express.js, MySql, React, Next y Angular. Experiencia en desarrollo de sitios con WordPress (Elementor). Menejo de Git</h3>
                     <p className="gray"> Experiencia en Marketing Digital en META y Google Adsense en campañas electorales</p>
                     <br />
                     <span className="white">Tandil, Buenos Aires Argentina</span>
